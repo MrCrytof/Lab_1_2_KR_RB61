@@ -12,7 +12,7 @@ double calculate_f(double x) {
 
 int main() {
     // --- Оголошення змінних ---
-    int variant;
+    int variant = 0;
     double x1, x2;
     double delta;
     int input_N;
